@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓BE 3rd Year CSE, JSS STU University<br>📱App developer, good in Kotlin <br>👨‍💻Learning Flutter <br>❤️‍🔥Enthusiastic about clean code and user-centric design <br>
+🎓BE 3rd Year CSE, JSS STU University<br>📱App developer, good in Dart <br>👨‍💻Learning Flutter <br>❤️‍🔥Enthusiastic about clean code and user-centric design <br>
 
 
 ## 🌐 Socials:
