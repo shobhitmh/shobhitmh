@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓BE 3rd Year CSE, JSS STU University<br>📱Flutter developer <br>👨‍💻Learning Firebase <br>❤️‍🔥Enthusiastic about clean code and user-centric design <br>
+🎓B.E. 4th Year CSE, JSS STU University<br>📱Mobile App developer <br>👨‍💻Learning Backend Development  <br>❤️‍🔥Enthusiastic about clean code and user-centric design <br>
 
 
 ## 🌐 Socials:
