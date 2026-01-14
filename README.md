@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓B.E. 4th Year CSE, JSS STU University<br>📱Mobile App developer <br>👨‍💻Intermediate in Flutter <br>❤️‍🔥Enthusiastic about clean code and user-centric design <br>
+🎓 Computer Science Engineer | SOC Analyst at Cognizant | Full-Stack & Security Enthusiast Dedicated to building secure, scalable applications. Experienced in threat detection, Python automation, and developing AI-driven health solutions.
 
 
 ## 🌐 Socials:
