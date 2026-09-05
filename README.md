@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Science Engineer | Software engineer at Cognizant | Full-Stack & Security Enthusiast Dedicated to building secure, scalable applications. Experienced in threat detection, Python automation, and developing AI-driven cybersecurity solutions.
+🎓 B.E Computer Science | Software engineer at Cognizant | Full-Stack & Security Enthusiast Dedicated to building secure, scalable applications. Experienced in threat detection, Python automation, and developing AI-driven cybersecurity solutions.
 
 
 ## 🌐 Socials:
