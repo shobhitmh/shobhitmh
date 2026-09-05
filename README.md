@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Science Engineer | SOC Analyst at Cognizant | Full-Stack & Security Enthusiast Dedicated to building secure, scalable applications. Experienced in threat detection, Python automation, and developing AI-driven health solutions.
+🎓 Computer Science Engineer | Software engineer at Cognizant | Full-Stack & Security Enthusiast Dedicated to building secure, scalable applications. Experienced in threat detection, Python automation, and developing AI-driven cybersecurity solutions.
 
 
 ## 🌐 Socials:
